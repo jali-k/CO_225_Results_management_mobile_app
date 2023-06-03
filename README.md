@@ -19,3 +19,10 @@ Key Features
 6. Exam Marks Calculation: For courses with continuous assessment components (quizzes, assignments, projects), students can calculate the required exam marks to achieve their expected grade in the course. The system takes into account the confirmed marks entered for continuous assessment and computes the minimum required exam marks to achieve the desired overall grade.
 
 7. Rank Display: Based on the confirmed marks entered by students, the system provides the rank of each student within their batch and field.
+
+
+Conclusion
+-----------
+
+The Undergraduate Student Marks Management and Analysis System provides a comprehensive solution for managing and analysing undergraduate students' marks. It empowers students to track their academic progress, calculate GPA, set goals, and make informed decisions about their education. The system also streamlines the process of uploading final grades and ensures accuracy and transparency in the evaluation process.
+
